@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "549231735342",
+    "project_id": "eyotp-f1db2",
+    "storage_bucket": "eyotp-f1db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549231735342:android:96b43f730d440c1dfda5bf",
+        "android_client_info": {
+          "package_name": "com.example.ey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549231735342-gf56i60mgt47nstsfe4a7j0rm0lju9o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ey",
+            "certificate_hash": "78103b9a27d698ecc93ff5b86358cab99aad1626"
+          }
+        },
+        {
+          "client_id": "549231735342-nj1o2q4cj6nobjmub43eso9dn9njj4po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZhI2Tpxf9zIt51zcA3FI2nhcIRMao1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549231735342-nj1o2q4cj6nobjmub43eso9dn9njj4po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
